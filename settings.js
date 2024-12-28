@@ -8,10 +8,10 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 global.own = ['917907635894', '0']
 global.owner = ['917907635894', '917907635894']
-global.packname = 'SychBotz'
-global.author = 'ydaa'
-global.owname = 'mzyda'
-global.botname = 'Sychy Bot'
+global.packname = 'a3h1nav.xd'
+global.author = 'cyber.369'
+global.owname = '@abhinav'
+global.botname = 'a3h1nav.xd'
 global.listprefix = ['+', '!', '.']
 global.themeemoji = '🪀'
 global.f = '> '
@@ -29,9 +29,9 @@ global.fake = {
 	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/pdf'],
 }
 global.my = {
-	yt: 'https://www.youtube.com/@sychyy00',
-	gh: 'https://github.com/sychyy',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
+	yt: 'https://www.youtube.com/@cyber360opz',
+	gh: 'https://github.com/cyber360mods',
+	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLGPFtH2R',
 	ch: '120363383347233294@newsletter',
 }
 global.limit = {
