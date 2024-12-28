@@ -6,8 +6,8 @@ const chalk = require('chalk');
  * Whatsapp : https://whatsapp.com/channel/0029Vb0v3F71yT264EejzJ3e
  */
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
-global.own = ['917907635894', '0']
-global.owner = ['917907635894', '917907635894']
+global.own = ['43664773900000', '0']
+global.owner = ['43664773900000', '43664773900000']
 global.packname = 'a3h1nav.xd'
 global.author = 'cyber.369'
 global.owname = '@abhinav'
